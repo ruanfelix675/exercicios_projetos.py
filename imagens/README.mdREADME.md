@@ -16,11 +16,7 @@
 <img width="1920" height="1080" alt="qual e seu nome e idade mais avançado" src="https://github.com/user-attachments/assets/25e03827-11af-47e6-a29c-60fc775b2193" />
 <img width="1920" height="1080" alt="sucesor e numero anterior" src="https://github.com/user-attachments/assets/016df594-8e7e-419e-a5c8-443708a50d86" />
 <img width="1920" height="1080" alt="validaçao do sexo" src="https://github.com/user-attachments/assets/87d22262-a3bd-47b6-b43a-41e1c4a47fd7" />
-<img width="1920" height="1080" alt="verificaçao_de_idade js" src="https://github.com/user-attachments/assets/a7b50334-90e6-43df-b356-623375795351" />
-<img width="1920" height="1080" alt="exibindo_a_idade js" src="https://github.com/user-attachments/assets/c2321d82-d241-49e6-98f8-b077adc13076" />
-<img width="1920" height="1080" alt="usando bibilhoteca" src="https://github.com/user-attachments/assets/76992492-9889-43ec-991c-4db6825aa886" />
-<img width="1920" height="1080" alt="exibindo nome idade e altura em js" src="https://github.com/user-attachments/assets/7e12a5dd-9a4e-437c-b2f7-a915056efc9f" />
-<img width="1920" height="1080" alt="funçao em js" src="https://github.com/user-attachments/assets/44d9a42a-0ef3-463b-8f64-b038b42aa504" />
+
 
 
 
